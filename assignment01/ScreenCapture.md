@@ -1,0 +1,1 @@
+![Image of ScreenCapture](https://github.com/dayao-live/EMBSYS100---AU19/blob/master/assignment01/ScreenCapture.PNG)
