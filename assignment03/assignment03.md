@@ -15,7 +15,7 @@ __It is developed and improved by many people, Samuel Morse and Alfred Vail are 
 2. Using the International Code below, please write a small program to present your first name with Morse Code using the user LED on our Nucleo-F401RE evaluation board.
 
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=mSN4WBeNpio&feature=youtu.be" frameborder="0" allowfullscreen="true"> </iframe>
+<iframe width="869" height="489" src="https://www.youtube.com/embed/mSN4WBeNpio" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
   3. Bonus:  
