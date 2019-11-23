@@ -14,7 +14,7 @@ __Values of R0 and R1 are the two input arguments.__
 
 
 * c. Share a screen shot of the local variables inside of “main” after the function swap_pointer() returns, showing the values of the pointers and what they are pointing to, similar to the picture below:
-![screenshot for Problem1](https://github.com/dayao-live/EMBSYS100---AU19/blob/master/assignment05/P1_screenshot.PNG)
+![screenshot for Problem1](https://github.com/dayao-live/EMBSYS100---AU19/blob/master/assignment05/Problem1_SwapPointers/P1_screenshot.PNG)
 
 2. Run sqrAsm code from the class demo:
 * a. Copy HelloWorld from Assignment 1.
@@ -22,7 +22,7 @@ __Values of R0 and R1 are the two input arguments.__
 * c. In IAR, add sqrAsm.s file to your project. Now you should be able to see the file from the Workspace Window.  
 * d. Modify main.c to call sqrAsm function.
 * e. Run your program on the board, and capture a snapshot image of the output from TeraTerm.
-![screenshot for TeraTerm](https://github.com/dayao-live/EMBSYS100---AU19/blob/master/assignment05/P1_screenshot.PNG)
+![screenshot for TeraTerm](https://github.com/dayao-live/EMBSYS100---AU19/blob/master/assignment05/Problem2_SqrAsm/TeraTerm_screenshot.PNG)
 
 3. Following the queue data structure approach, design, implement and test a stack data structure:
 * a. The following is the list of requirements:
