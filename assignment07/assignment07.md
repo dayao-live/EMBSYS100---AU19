@@ -10,9 +10,12 @@ The goals for the assignment this week:
 * b. Enable use of CMSIS in project options settings.
 * c. Add the files “stm32f401xe.h” & “system_stm32f4xx.h” to the folder where “main.c” is saved. You should be able to get these files thru STM32CubeMX. You could also get them by downloading the zip file “CMSIS_STM32_Device_Specific_Files.zip” from canvas site under the link Assignment\A06 folder
 * d. Enable the use of the SysTick timer and its interrupt.
-* e. Replace the delay() function with the use of the SysTick timer to blink the user LED.
+* e. Replace the delay() function with the use of the SysTick timer to blink the user LED.  
+__Code submitted.__
 * f. Set a break point inside the SysTick_Handler interrupt and capture a snapshot of the stack once inside the interrupt and LR value. Explain what are the values stored on the stack at the moment the Handler gets invoked.
-__Code submitted.__  
+__snapshot is attached, but cannot tell what are the values stored on the stack.__ 
+![screenshot for stack and registers](https://github.com/dayao-live/EMBSYS100---AU19/blob/master/assignment07/snapshot.PNG)
+
 
 2. __Bonus__: Improve your delay function to rely on the use of the SysTick timer instead of the busy-wait loop.
 * a. Function prototype: void delay(uint32_t delayInMilliseconds)
